@@ -16,5 +16,3 @@ services:
     command: ./ozon
     ports:
       - "8000:8000"
-volumes:
-  grafana-data:
